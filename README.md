@@ -15,5 +15,7 @@ The system must store data in a relational database.
 The system must be highly scalable.
  # First Schema 
 <img width="3768" height="1061" alt="image" src="https://github.com/user-attachments/assets/65c90856-bd7f-4e90-879c-de1503ea8964" />
+
+
 # Second Schema 
  <img width="1742" height="172" alt="1444 drawio" src="https://github.com/user-attachments/assets/7212b1f5-44a4-4235-b133-a19ceefe372d" />
