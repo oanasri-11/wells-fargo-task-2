@@ -13,3 +13,4 @@ The system must expose a React dashboard.
 The system’s backend must use the Spring framework for Java.
 The system must store data in a relational database.
 The system must be highly scalable.
+<img width="3768" height="1061" alt="image" src="https://github.com/user-attachments/assets/65c90856-bd7f-4e90-879c-de1503ea8964" />
