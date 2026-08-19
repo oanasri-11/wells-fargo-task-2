@@ -18,4 +18,9 @@ The system must be highly scalable.
 
 
 # Second Schema 
- <img width="1742" height="172" alt="1444 drawio" src="https://github.com/user-attachments/assets/7212b1f5-44a4-4235-b133-a19ceefe372d" />
+ <img width="1742" height="172" alt="1444 drawio" src="https://github.com/user-attachments/assets/7212b1f5-44a4-4235-b133-a19ceefe372d" /> 
+
+ # Implementation :
+    Java Persistence API, or JPA for short. The JPA is an object-relational mapping tool (ORM tool) - a means to bridge the gap between Java objects and data held in a relational database. The idea is that each Java object registered with the JPA has a representation of its state persisted to an external database. As you modify the Java object, the corresponding data object is updated as well. As such, when an application closes, all of its data is already saved to the database. The JPA lets us reason about transactions using java objects rather than raw data, and handles the conversion for us behind the scenes.
+
+Fortunately, Spring comes with thorough support for the JPA, and actually allows for multiple database backends. Setting up a project to use Spring with the JPA is relatively straightforward, but you don’t have to worry about it.
