@@ -1,5 +1,4 @@
-# Task 2 Starter Repo
-Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
+
 # The new system is intended to assist financial advisors in managing their customers’ portfolios and will significantly improve the existing solution
  The system will help manage multiple financial advisors’ clients.
 Financial advisors must be able to create, update, and remove clients.
